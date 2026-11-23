@@ -5,7 +5,7 @@
     "author": "EldenModder",
     "contact": "",
     "homepage": "https://mods.factorio.com/mod/Nier-OST",
-    "factorio_version": "2.0",
+    "factorio_version": "2.1",
     "description": "Some Nier Automata OST for Factorio",
     "dependencies": ["base >= 2.0.20", "space-age"]
 }
